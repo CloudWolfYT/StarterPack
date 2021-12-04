@@ -1,1 +1,0 @@
-execute if score @s test matches 1
